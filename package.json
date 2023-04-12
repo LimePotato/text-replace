@@ -1,7 +1,7 @@
 {
-  "name": "plugin-template",
+  "name": "text-replace",
   "version": "1.0.0",
-  "description": "A plugin template",
+  "description": "Replace text in your messages automatically, based on user rules.",
   "engines": {
     "node": ">=18.0.0",
     "pnpm": ">=8.0.0"
